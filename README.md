@@ -1,4 +1,4 @@
-test-repo3
+Test Repo 3
 ==========
 
 Testing purposes.
